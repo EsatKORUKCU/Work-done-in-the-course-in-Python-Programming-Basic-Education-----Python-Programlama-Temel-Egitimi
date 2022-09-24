@@ -1,0 +1,8 @@
+esat:FF
+kemal:FF
+tarık:BB
+faruk:BB
+esa:BB
+cevat:BB
+sesr:FF
+ferit:FF
