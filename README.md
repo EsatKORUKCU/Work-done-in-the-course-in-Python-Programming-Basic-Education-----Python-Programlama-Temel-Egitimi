@@ -1,2 +1,2 @@
-# Python-Programlama-1-Temel-E-itim-derste-yap-lan-al-malar1
-Python Programlama 1 (Temel Eğitim) derste yapılan çalışmalar1
+# Work-done-in-the-course-in-Python-Programming-Basic-Education-----Python-Programlama-Temel-Egitimi
+
